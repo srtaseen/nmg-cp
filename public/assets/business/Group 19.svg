@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139.075" height="130.396" viewBox="0 0 139.075 130.396">
+  <g id="Group_19" data-name="Group 19" transform="translate(-954.608 -1087.094)">
+    <path id="Polygon_1" data-name="Polygon 1" d="M42.6,24.349a16,16,0,0,1,27.792,0l28.946,50.72A16,16,0,0,1,85.446,99H27.554a16,16,0,0,1-13.9-23.931Z" transform="translate(954.608 1123.884) rotate(-19)" fill="#f6ebec"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="21" height="10" rx="2" transform="translate(1011 1191)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="21" height="10" rx="2" transform="translate(985 1191)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="21" height="10" rx="2" transform="translate(1011 1176)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="21" height="10" rx="2" transform="translate(1011 1161)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="15.5" cy="15.5" r="15.5" transform="translate(971 1151)" fill="none" stroke="#000" stroke-width="3"/>
+    <text id="_" data-name="$" transform="translate(987 1173)" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-5.391" y="0">$</tspan></text>
+  </g>
+</svg>

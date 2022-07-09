@@ -6,9 +6,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "embla-carousel-autoplay": "^7.0.0-rc03",
+    "embla-carousel-class-names": "^7.0.0-rc03",
+    "embla-carousel-react": "^7.0.0-rc03",
+    "framer-motion": "^6.4.1",
+    "gsap": "^3.10.4",
+    "locomotive-scroll": "^4.1.4",
     "next": "latest",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-icons": "^4.4.0",
+    "react-intersection-observer": "^9.3.5",
+    "react-locomotive-scroll": "^0.2.0"
   },
   "devDependencies": {
     "@types/node": "17.0.35",

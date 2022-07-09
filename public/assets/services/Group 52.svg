@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="40" viewBox="0 0 48 40">
+  <g id="Group_52" data-name="Group 52" transform="translate(-986 -2159)">
+    <rect id="Rectangle_25" data-name="Rectangle 25" width="16" height="8" rx="2" transform="translate(1017 2190)" fill="none" stroke="#c61526" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="16" height="8" rx="2" transform="translate(997 2190)" fill="none" stroke="#c61526" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_26" data-name="Rectangle 26" width="16" height="7" rx="2" transform="translate(1017 2179)" fill="none" stroke="#c61526" stroke-linejoin="round" stroke-width="2"/>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="16" height="9" rx="2" transform="translate(1017 2166)" fill="none" stroke="#c61526" stroke-linejoin="round" stroke-width="2"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="12.5" cy="12.5" r="12.5" transform="translate(986 2159)" fill="#c61526"/>
+    <g id="Group_51" data-name="Group 51" transform="translate(99.549 -634.141)">
+      <g id="Group_29" data-name="Group 29" transform="translate(896.451 2801.832)">
+        <path id="Path_89" data-name="Path 89" d="M546.065,394.7H544.6a1.848,1.848,0,0,1-1.843-1.843h0a1.848,1.848,0,0,1,1.843-1.843h3.3" transform="translate(-542.761 -391.011)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_90" data-name="Path 90" d="M544.6,399.474h1.462a1.848,1.848,0,0,1,1.843,1.843h0a1.848,1.848,0,0,1-1.843,1.843h-3.3" transform="translate(-542.761 -395.788)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+      <line id="Line_9" data-name="Line 9" y1="1.691" transform="translate(899.613 2800.141)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_10" data-name="Line 10" y1="1.691" transform="translate(899.024 2809.398)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

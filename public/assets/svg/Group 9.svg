@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="341" height="293" viewBox="0 0 341 293">
+  <defs>
+    <filter id="Rectangle_10" x="0" y="0" width="341" height="293" filterUnits="userSpaceOnUse">
+      <feOffset dy="24" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="33" result="blur"/>
+      <feFlood flood-color="#101140" flood-opacity="0.18"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9" data-name="Group 9" transform="translate(-520 -475)">
+    <g transform="matrix(1, 0, 0, 1, 520, 475)" filter="url(#Rectangle_10)">
+      <rect id="Rectangle_10-2" data-name="Rectangle 10" width="143" height="95" rx="13" transform="translate(99 75)" fill="#fff"/>
+    </g>
+    <text id="Financial_Service" data-name="Financial Service" transform="translate(634 576)" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.03em"><tspan x="0" y="0">Financial Service</tspan></text>
+    <line id="Line_1" data-name="Line 1" x2="112.5" transform="translate(635.5 620.5)" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+    <line id="Line_2" data-name="Line 2" y2="22" transform="translate(733.5 598.5)" fill="none" stroke="#d0d0d0" stroke-width="1"/>
+    <path id="Path_17" data-name="Path 17" d="M635,591s60.516,2.726,111.313-42.531" transform="translate(0 40)" fill="none" stroke="#c61526" stroke-linecap="round" stroke-width="2" stroke-dasharray="3 5"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="4" cy="4" r="4" transform="translate(740 586)" fill="#c61526" stroke="#fff" stroke-width="2"/>
+    <text id="_2021-2022" data-name="2021-2022" transform="translate(641 591)" fill="#b8b8b8" font-size="8" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="0">2021-2022</tspan></text>
+    <g id="Group_5" data-name="Group 5" transform="translate(-42.969 0.97)">
+      <path id="Path_18" data-name="Path 18" d="M0,0H2.834V2.834" transform="translate(676.969 587.473) rotate(-45)" fill="none" stroke="#43d0af" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" y1="3.958" transform="translate(678.973 585.493)" fill="none" stroke="#43d0af" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
