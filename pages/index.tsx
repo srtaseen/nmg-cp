@@ -8,6 +8,8 @@ import "locomotive-scroll/dist/locomotive-scroll.css";
 import { useRef } from "react";
 import Business from "../components/Business";
 import { useAnimation } from "framer-motion";
+import Services from "../components/Services";
+import Team from "../components/Team";
 
 const Home: NextPage = () => {
   const containerRef = useRef(null);
@@ -30,6 +32,8 @@ const Home: NextPage = () => {
           <div data-scroll-section>
             <Hero />
             <Business />
+            <Services />
+            <Team />
           </div>
         </main>
       </LocomotiveScrollProvider>
