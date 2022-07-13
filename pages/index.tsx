@@ -10,6 +10,8 @@ import Business from "../components/Business";
 import { useAnimation } from "framer-motion";
 import Services from "../components/Services";
 import Team from "../components/Team";
+import Footer from "../components/Footer";
+import FooterLast from "../components/FooterLast";
 
 const Home: NextPage = () => {
   const containerRef = useRef(null);
@@ -34,6 +36,8 @@ const Home: NextPage = () => {
             <Business />
             <Services />
             <Team />
+            <Footer />
+            <FooterLast />
           </div>
         </main>
       </LocomotiveScrollProvider>
